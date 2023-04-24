@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainContainer{
+    margin-left: 400px;
+    display: flex;
+    gap: 350px;
+}
+h1{
+  font-family: oboto, sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  margin: 100px 0px 0px 200px;
+  letter-spacing: 2px;
+}
+.underLine{
+    width: 85px;
+    height: 5px;
+    background-color: #49A6E9;
+    margin: 5px 0px 0px 290px;
+    
+}
+.image1{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+.firstImage{
+    background-color: #49A6E9;
+    margin: 100px 0px 0px 260px;
+    width: 160px;
+    height: 150px;
+    border-radius: 100px;
+}
+.circle{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: #49A6E9;
+    border-radius: 100px;
+    font-size: 50px;
+    margin: 25px 0px 0px 0px;
+}
+.circleComa{
+    position: absolute;
+    margin: -26px 0px 0px 7px;
+    color: #fff;
+    font-weight: bold;
+}
+.name{
+    margin: 10px 0px 0px 270px;
+    letter-spacing: 5px;
+}
+.jobDescrip{
+    margin: 5px 0px 0px 288px;
+    font-size: 14px;
+    color: #54AAEA;
+    font-weight: bold;
+}
+.mainPara{
+    width: 640px;
+    margin-top: 20px;
+    line-height: 25px;
+    font-size: 20px;
+    margin: 10px 0px 0px 60px;
+    
+}
+.sliderButton{
+    margin: 18px 0px 0px 315px;
+    letter-spacing: 10px;
+    font-size: 20px;
+    color: #8BCBF9;
+}
+.SurpriseMe{
+    width: 90px;
+    height: 28px;
+    margin: 10px 0px 0px 295px;
+    border: 2px solid #316C97;
+    border-radius: 8px;
+    text-align: center;
+    color: #76bef1;
+    padding-top: 2px;
+}
+.SurpriseMe:hover{
+   background-color: #49A6E9;
+   color: black;
+}
+/* .hidden{
+    display: none;
+} */
